@@ -19,7 +19,9 @@ Soy estudiante de Ingeniería en Computación en el Tecnológico de Costa Rica (
 * **Etheria Global:** Desarrollo de lógica compleja de bases de datos y flujos de datos.
 
 ---
-<div class="tenor-gif-embed" data-postid="7007655116697148667" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/buur-buurmantenus-roblox-youtube-youtuber-gif-7007655116697148667">Buur Buurmantenus Sticker</a>from <a href="https://tenor.com/search/buur-stickers">Buur Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://tenor.com/ivPiwf5uZsd.gif" alt="DUNKER">
+</p>
 
 📫 **¿Cómo contactarme?**
 * Puedes revisar mis repositorios o contactarme a través de mi correo estudiantil/personal.
