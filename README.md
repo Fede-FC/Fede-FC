@@ -41,7 +41,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://media.tenor.com/YUAxM1MunPsAAAAi/buur-buurmantenus.gif" alt="Buur Buurmantenus GIF" width="350">
+  <img src="https://media.tenor.com/YUAxM1MunPsAAAAi/buur-buurmantenus.gif](https://media1.tenor.com/m/f69zOp6ZovUAAAAC/cryptoagent-cryptoagents.gif" alt="Prompting" width="350">
 </p>
 
 <h2>📫 ¿Cómo contactarme?</h2>
