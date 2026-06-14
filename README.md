@@ -19,7 +19,6 @@
 <ul>
   <li>🎓 Computer Engineering student at TEC.</li>
   <li>💻 Passionate about backend development and software architecture.</li>
-  <li>🗄️ Interested in database design, ETL processes, and data management.</li>
   <li>🐳 Learning containerization, system design, and scalable applications.</li>
   <li>📈 Enjoy solving logical, mathematical, and statistical problems.</li>
 </ul>
@@ -40,10 +39,6 @@
       Sistema de Gestión de Transporte
     </a>
     - Logistics and transportation management system.
-  </li>
-  <li>
-    <strong>Etheria Global</strong>
-    - Database logic, ETL processes, and data flow development.
   </li>
 </ul>
 
