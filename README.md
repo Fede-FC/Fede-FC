@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Federick Fernández</h1>
+<h1 align="center">Hi, I'm Federick Fernández</h1>
 
 <p align="center">
-  <b>Computer Engineering Student | Backend Developer | Problem Solver</b>
+  <b>Computer Engineering Student </b>
 </p>
 
 <p align="center">
@@ -9,21 +9,21 @@
 </p>
 
 <p align="center">
-  🇨🇷 Costa Rica • 🎓 Tecnológico de Costa Rica (TEC) • 💻 Software Development
+  Costa Rica •  Tecnológico de Costa Rica (TEC) •  Software Development
 </p>
 
 <hr>
 
-<h2>🚀 About Me</h2>
+<h2> About Me</h2>
 
 <ul>
-  <li>🎓 Computer Engineering student at TEC.</li>
-  <li>💻 Passionate about backend development and software architecture.</li>
-  <li>🐳 Learning containerization, system design, and scalable applications.</li>
-  <li>📈 Enjoy solving logical, mathematical, and statistical problems.</li>
+  <li>Computer Engineering student at TEC.</li>
+  <li>Passionate about backend development and software architecture.</li>
+  <li>Learning containerization, system design, and scalable applications.</li>
+  <li> Enjoy solving logical, mathematical, and statistical problems.</li>
 </ul>
 
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
 <ul>
   <li><strong>Languages:</strong> Java, Python, Haskell</li>
@@ -31,7 +31,7 @@
   <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
 </ul>
 
-<h2>📌 Featured Projects</h2>
+<h2> Featured Projects</h2>
 
 <ul>
   <li>
@@ -42,7 +42,7 @@
   </li>
 </ul>
 
-<h2>🎯 Current Goals</h2>
+<h2>Current Goals</h2>
 
 <ul>
   <li>Build robust backend applications.</li>
